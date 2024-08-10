@@ -44,7 +44,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website built with React and Tailwind CSS to showcase my skills, projects, and contact information.",
     image: projectImage1,
-    githubLink: "https://github.com/user/personal-portfolio",
+    githubLink: "https://github.com/arulnidhiak/Arulnidhi_Portfolio",
   },
   {
     id: 2,
@@ -52,7 +52,7 @@ export const PROJECTS = [
     description:
       "Designed and implemented a deep progressive learning model to handle noisy data and improve classification accuracy. Applied advanced image preprocessing techniques for pixel level reconstruction to denoise handwritten character. Technical Skills: Python with Pandas, matplotlib, Numpy.",
     image: projectImage2,
-    githubLink: "https://github.com/user/ecommerce-platform",
+    githubLink: "https://github.com/arulnidhiak/handwriting-recognition",
   },
   {
     id: 3,
@@ -60,7 +60,7 @@ export const PROJECTS = [
     description:
       "A task management application built with React and Redux for efficient task tracking and team collaboration, including features like project boards, task assignment, and progress tracking.",
     image: projectImage3,
-    githubLink: "https://github.com/user/task-management-tool",
+    githubLink: "https://github.com/arulnidhiak/to-do-list",
   },
   {
     id: 4,
@@ -68,7 +68,7 @@ export const PROJECTS = [
     description:
       "A weather application that uses the OpenWeatherMap API to fetch and display current weather data and forecasts for various locations, built with React and styled-components.",
     image: projectImage4,
-    githubLink: "https://github.com/user/weather-app",
+    githubLink: "https://github.com/arulnidhiak?tab=repositories",
   },
   {
     id: 5,
@@ -76,7 +76,7 @@ export const PROJECTS = [
     description:
       "An approach that helps the user to automatically play songs based on the emotions of the user. It recognizes the facial emotions of the user and plays the songs according to their emotion. Primarily used Python with Entity Framework, experience with HTML/CSS.",
     image: projectImage5,
-    githubLink: "https://github.com/user/blog-platform",
+    githubLink: "https://github.com/arulnidhiak/music-recommendation-system_ML",
   },
   {
     id: 6,
@@ -84,7 +84,7 @@ export const PROJECTS = [
     description:
       "Designed and implemented a sentiment analysis pipeline using Python to preprocess, analyze, and visualize tweet data. Developed a Twitter Sentiment Analysis system to analyze and categorize the sentiment of tweets in real-time, providing valuable insights into public opinion.",
     image: projectImage6,
-    githubLink: "https://github.com/user/chat-application",
+    githubLink: "https://github.com/arulnidhiak/MIT",
   },
 ];
 
