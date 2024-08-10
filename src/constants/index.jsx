@@ -48,9 +48,9 @@ export const PROJECTS = [
   },
   {
     id: 2,
-    name: "Handwritten Characters Classification",
+    name: "Handwriting Recognition",
     description:
-      "Designed and implemented a deep progressive learning model to handle noisy data and improve classification accuracy. Applied advanced image preprocessing techniques for pixel level reconstruction to denoise handwritten character. Technical Skills: Python with Pandas, matplotlib, Numpy.",
+      "Designed a deep progressive learning model to handle noisy data and improve classification accuracy.Applied image preprocessing for denoise character.Technical Skills: Python with Pandas, Numpy.",
     image: projectImage2,
     githubLink: "https://github.com/arulnidhiak/handwriting-recognition",
   },
@@ -58,7 +58,7 @@ export const PROJECTS = [
     id: 3,
     name: "Task Management Tool",
     description:
-      "A task management application built with React and Redux for efficient task tracking and team collaboration, including features like project boards, task assignment, and progress tracking.",
+      "A task management application built with React for efficient task tracking and team collaboration, including features like completion and progress tracking.",
     image: projectImage3,
     githubLink: "https://github.com/arulnidhiak/to-do-list",
   },
@@ -74,15 +74,15 @@ export const PROJECTS = [
     id: 5,
     name: "Music Recommendation system",
     description:
-      "An approach that helps the user to automatically play songs based on the emotions of the user. It recognizes the facial emotions of the user and plays the songs according to their emotion. Primarily used Python with Entity Framework, experience with HTML/CSS.",
+      "An approach that helps the user to automatically play songs based on the emotions of the user. It recognizes the facial emotions of the user and plays the songs according to their emotion.",
     image: projectImage5,
     githubLink: "https://github.com/arulnidhiak/music-recommendation-system_ML",
   },
   {
     id: 6,
-    name: "Twitter Sentiment Analysis",
+    name: "Sentiment Analysis",
     description:
-      "Designed and implemented a sentiment analysis pipeline using Python to preprocess, analyze, and visualize tweet data. Developed a Twitter Sentiment Analysis system to analyze and categorize the sentiment of tweets in real-time, providing valuable insights into public opinion.",
+      "Implemented a sentiment analysis pipeline using Python to preprocess, analyze, and visualize tweet data. Developed a Twitter Sentiment Analysis system to categorize the sentiment of tweets into public opinion.",
     image: projectImage6,
     githubLink: "https://github.com/arulnidhiak/MIT",
   },
