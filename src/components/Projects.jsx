@@ -32,7 +32,7 @@ const Projects = () => {
                     justify-center text-white opacity-0 backdrop-blur-lg 
                     transition-opacity duration-500 group-hover:opacity-100">
                         <h3 className="mb-2 text-xl">{project.name}</h3>
-                        <p className="mb-12 p-4 text-justify">{project.description}</p>
+                        <p className="mb-12 p-4">{project.description}</p>
                         <a href={project.githubLink} target="_blank"
                         rel="noopener noreferrer" className="rounded-full
                         bg-white px-4 py-2 text-black hover:bg-gray-300">
